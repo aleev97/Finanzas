@@ -29,4 +29,4 @@ export const TransactionForm = () => {
             <button type="submit">Agregar</button>
         </form>
     );
-};
+}; 

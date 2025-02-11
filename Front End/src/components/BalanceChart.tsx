@@ -34,4 +34,4 @@ export const BalanceChart = ({ labels, ingresos, gastos }: BalanceChartProps) =>
       <Line data={data} />
     </div>
   );
-};
+}; 
